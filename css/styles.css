@@ -16,4 +16,5 @@ header > ul {
 header > ul > li {
   float:left;
   padding:35px 10px;
+  font-size:18px;
 }
