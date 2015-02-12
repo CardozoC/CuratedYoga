@@ -1,9 +1,15 @@
 @charset "UTF-8";
 /* CSS Document */
 
+header {
+  position:fixed;
+  background:#f0f0f0;
+  height:150px;
+}
+
 header > ul {
   float:right;
-  list-style-type: none;
+  list-style-type:none;
 }
 
 header > ul > li {
