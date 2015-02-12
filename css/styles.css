@@ -1,3 +1,11 @@
 @charset "UTF-8";
 /* CSS Document */
 
+header > ul {
+  float:right;
+  list-style-type: none;
+}
+
+header > ul > li {
+  float:left;
+}
