@@ -1,6 +1,10 @@
 @charset "UTF-8";
 /* CSS Document */
 
+header {
+  height:136px;
+}
+
 .header {
   position:fixed;
   background:#f0f0f0;
