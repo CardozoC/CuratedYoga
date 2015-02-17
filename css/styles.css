@@ -8,12 +8,12 @@
   padding:15px;
 }
 
-header > ul {
+.header > ul {
   float:right;
   list-style-type:none;
 }
 
-header > ul > li {
+.header > ul > li {
   float:left;
   padding:35px 15px;
   font-size:18px;
