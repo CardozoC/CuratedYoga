@@ -3,7 +3,7 @@
 
 @media (max-width: 768px) {
   
-.body{
+body{
   font-family: 'Roboto Condensed', sans-serif;
 }
 
@@ -61,7 +61,7 @@ header {
   background:#6e6e6e;
   color:#fff;
 }
-.footer {
+footer {
   color: #FFFFFF;
   text-align: center;
 }
