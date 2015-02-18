@@ -63,7 +63,7 @@ header {
 }
 footer {
   background-color: #000000;
-  max-width:768px;
+  z-index:auto;
   color: #FFFFFF;
   text-align: center;
 }
