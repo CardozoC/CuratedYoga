@@ -2,23 +2,29 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>About Us</title>
-<link rel="stylesheet" type="text/css" href="../../../Applications/MAMP/htdocs/style.css">
+<title>Curated Yoga</title>
+<link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css" rel="stylesheet">
+<link href="css/styles.css" rel="stylesheet">
+<meta name="viewport" content="width=device-width, initial-scale=1" />
 </head>
 
 <body>
 
-<header>
-  <img src="../../../Applications/MAMP/htdocs/curatedyoga-logo.png" alt="curated yoga" width="100" height="100">
-  
-  <ul>
-    <li>Home</li>
-    <li>About</li>
-    <li>News</li>
-    <li>Contact Us</li>
-  </ul>
-</header>
-</head>
+<div class="container-fluid">
+
+  <header>
+    <div class="row header">
+      <div class="col-xs-12 col-sm-6">
+        <img src="images/curatedyoga-logo.png" class="sitelogo" alt="curated yoga" width="90" height="90">
+      </div>
+      <div class="col-xs-12 col-sm-6">
+          <a href="index.html" class="col-xs-12 col-sm-3 navbutton">Home</a>
+          <a href="about.html" class="col-xs-12 col-sm-3 navbutton">About</a>
+          <a href="news.html" class="col-xs-12 col-sm-3 navbutton">News</a>
+          <a href="contact.html" class="col-xs-12 col-sm-3 navbutton">Contact</a>
+      </div>
+    </div>
+  </header>
 <body>
 <br>
 <br>
