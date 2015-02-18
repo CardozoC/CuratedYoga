@@ -1,12 +1,12 @@
 @charset "UTF-8";
 /* CSS Document */
-
+@media (max-width: 479px) {
 .sitelogo {
   margin:0 auto;
   width:90px;
   height:90px;
 }
-
+}
 header {
   height:136px;
 }
