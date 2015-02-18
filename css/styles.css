@@ -1,6 +1,6 @@
 @charset "UTF-8";
 /* CSS Document */
-@media (max-width: 479px) {
+@media (max-width: 768px) {
 .sitelogo {
   margin:0 auto;
   width:90px;
