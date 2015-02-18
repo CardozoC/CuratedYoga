@@ -5,6 +5,10 @@
   margin:0 auto;
   width:90px;
   height:90px;
+  display:block;
+}
+.navbutton {
+  text-align:center;
 }
 }
 header {
