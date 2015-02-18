@@ -1,0 +1,51 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>About Us</title>
+<link rel="stylesheet" type="text/css" href="../../../Applications/MAMP/htdocs/style.css">
+</head>
+
+<body>
+
+<header>
+  <img src="../../../Applications/MAMP/htdocs/curatedyoga-logo.png" alt="curated yoga" width="100" height="100">
+  
+  <ul>
+    <li>Home</li>
+    <li>About</li>
+    <li>News</li>
+    <li>Contact Us</li>
+  </ul>
+</header>
+</head>
+<body>
+<br>
+<br>
+<br><br>
+<br>
+<br>
+<br>
+<br>
+<br><br><br>
+<br>
+<br><br>
+<body>
+<h1>Curated Yoga</h1>
+<p>
+Lorem ipsum dolor sit amet, ut nibh meis nam, mucius accumsan assueverit eam no, putant dignissim at vim. Atqui nullam id mea, vim rebum explicari ullamcorper no, ad atqui probatus incorrupte per. Quas petentium ea ius, usu ne tollit dictas. Te habeo graecis definitionem his, mea lorem simul ut. Cum vide omnesque assentior id. Ius ea eleifend rationibus, qui homero animal et, reque semper hendrerit nec cu.
+<br>
+<br>
+An ius reque habemus eligendi, ex hinc habeo sit. Mei aperiam sensibus cu. At quo summo integre. Iracundia constituam ut eos. Te atqui iuvaret pri, meis integre consetetur id nam. Cum ancillae phaedrum ad.
+<br>
+<br>
+Dico wisi et sit. Tale doming efficiantur ea vis, ei novum eirmod sed. Malorum maluisset at usu. Ut elitr causae appellantur sed, mei deserunt efficiantur in, omnis dolorum appellantur est ne.
+<br>
+<br>
+Saepe quidam noluisse has te, partem honestatis at mea. Ea eros convenire vel, an noster mandamus eam, quidam impetus ut mel. Essent labitur epicurei quo ad, no duo wisi efficiendi. Elit legendos no vis, doctus laboramus eos et. Sit cu graecis evertitur suscipiantur, te sale summo option mea, fuisset praesent ad pri. Partem graeco prompta mel no.
+<br>
+<br>
+Putant discere ne nec. Ad est populo latine bonorum, latine admodum luptatum his at. Vocent periculis theophrastus mel no. In vim omittantur efficiantur, usu homero iriure fastidii te. Cu eum causae mediocritatem, ad usu errem percipit consectetuer, ei ius debet percipitur. Eum ut assum aeque omnes, et nec esse dicam.
+</p>
+</body>
+</html>
