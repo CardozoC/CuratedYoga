@@ -1,0 +1,55 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Contact</title>
+<link rel="stylesheet" type="text/css" href="../../../Applications/MAMP/htdocs/style.css">
+</head>
+
+<body>
+
+<header>
+  <img src="../../../Applications/MAMP/htdocs/curatedyoga-logo.png" alt="curated yoga" width="100" height="100">
+  
+  <ul>
+    <li>Home</li>
+    <li>About</li>
+    <li>News</li>
+    <li>Contact Us</li>
+  </ul>
+</header>
+
+
+<body>
+<br>
+<br>
+<br><br>
+<br>
+<br>
+<br>
+<br>
+<br><br><br>
+<br>
+<br><br>
+<h1>Contact Us</h1>
+<p>Feel free to contact me using the information provided below</p>
+<p>Ezequiel Pavlotsky
+<br>Cell (954) 980-1808
+<br>epavlotsky@gmail.com
+<br>https://www.linkedin.com/in/ezequielpavlotsky</p>
+<br><br>
+<h1>Feel free to fill out our form</h1>
+<!-- Do not change the code! -->
+<a id="foxyform_embed_link_638551" href="http://www.foxyform.com/"></a>
+<script type="text/javascript">
+(function(d, t){
+   var g = d.createElement(t),
+       s = d.getElementsByTagName(t)[0];
+   g.src = "http://www.foxyform.com/js.php?id=638551&sec_hash=f2b4b184db8&width=350px";
+   s.parentNode.insertBefore(g, s);
+}(document, "script"));
+</script>
+<!-- Do not change the code! -->
+
+</body>
+</html>
