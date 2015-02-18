@@ -7,7 +7,8 @@ header {
 
 .header {
   position:fixed;
-  background:#f0f0f0;
+  background:#ffffff;
+  background-color:rgba(0, 0, 0, 0.7)
   width:100%;
   padding:15px;
 }
