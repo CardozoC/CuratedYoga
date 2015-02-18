@@ -61,6 +61,15 @@ header {
   background:#6e6e6e;
   color:#fff;
 }
+
+.row news-section{
+height: 300px;
+background-color:#BEEFD8;
+color:#fff;
+  
+  
+}
+
 footer {
   background-color: #000000;
   margin:0px;
