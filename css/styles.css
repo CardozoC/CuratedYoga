@@ -63,6 +63,7 @@ header {
 }
 footer {
   background-color: #000000;
+  background-size: 100%;
   color: #FFFFFF;
   text-align: center;
 }
