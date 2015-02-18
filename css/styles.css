@@ -72,6 +72,8 @@ color:#000000;
 }
 
 .news-section > ul > li {
+  padding-bottom: 10px;
+  list-style-type: none;
   font-size: 20px;
   
 }
