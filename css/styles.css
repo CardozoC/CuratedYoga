@@ -22,3 +22,8 @@ header {
   padding:27px 15px;
   font-size:18px;
 }
+
+.quotestyle {
+  height:400px;
+  background:red;
+}
