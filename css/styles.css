@@ -71,6 +71,11 @@ color:#000000;
   
 }
 
+.news-section > p {
+  font-size: 30px;
+  
+}
+
 .news-section > ul > li {
   padding-bottom: 10px;
   list-style-type: none;
