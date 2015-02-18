@@ -63,7 +63,9 @@ header {
 }
 footer {
   background-color: #000000;
-  z-index:auto;
-  color: #FFFFFF;
+  margin:0px;
+  padding: 10px;
+  height:150px;
+  color: #fff;
   text-align: center;
 }
